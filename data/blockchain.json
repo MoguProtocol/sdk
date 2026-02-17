@@ -1,0 +1,9 @@
+[
+  {
+    "term": "Trustless",
+    "category": "Blockchain",
+    "definition": "A system that does not require trust in a central authority.",
+    "origin": "Bitcoin whitepaper",
+    "related": ["Decentralization"]
+  }
+]
