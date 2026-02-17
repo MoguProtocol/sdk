@@ -1,0 +1,15 @@
+{
+  "name": "mogu",
+  "version": "1.0.0",
+  "description": "The definitive dictionary of community terminology, blockchain theory, and mogu culture.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Mogu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
