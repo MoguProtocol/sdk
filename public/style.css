@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.term {
+  background: #1c1c1c;
+  padding: 15px;
+  margin: 10px auto;
+  width: 60%;
+  border-radius: 8px;
+}
